@@ -1,6 +1,6 @@
 # ITP_Project_-_Vet_Hospital_Management_System
 
-This project was done for the academic purposes of the Mobile Application Development(MAD) module (Year 2 Semester 2 )at the Sri Lanka Institute of Information Technology.
+This project was done for the academic purposes of the Information Technology Project(ITP) module (Year 2 Semester 2 )at the Sri Lanka Institute of Information Technology.
 
 
 Veterinary hospital management is a web-based application designed for making tasks convenient in handling problems related to pets, all the specific problems will be solved with the integration of all the tasks that needs to be performed to take care of a pet.
