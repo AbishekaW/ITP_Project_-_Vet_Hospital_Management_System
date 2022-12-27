@@ -9,6 +9,9 @@ We have taken all the above into consideration and we have introduced a system t
 We have concluded that this system is important in Saving lives of a dozen of pets so therefore we are ready to provide this web app to any veterinary institution who would seek our service in the near future.
 
 Technologies used -
+
 Frontend : React.js
+
 Backend : Node.js / Express.js
+
 Database : MongoDB
